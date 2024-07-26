@@ -13,7 +13,9 @@
                 <div class="carousel-item active" style="height:400px;">
                     <img src="WhatsApp Image 2024-06-28 at 23.46.50_53604645.jpg" alt="Hii" class="d-block w-100" />
                     <div class="carousel-caption">
-                        <h3>First flower</h3>
+                        <h3>First flower
+                            <asp:Label ID="Label1" runat="server" Text="Label"></asp:Label>
+                        </h3>
                     </div>                    
                 </div>
                 
