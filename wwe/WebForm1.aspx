@@ -15,6 +15,8 @@
                     <div class="carousel-caption">
                         <h3>First flower
                             <asp:Label ID="Label1" runat="server" Text="Label"></asp:Label>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                            <asp:Button ID="Button1" runat="server" Text="Button" />
                         </h3>
                     </div>                    
                 </div>
